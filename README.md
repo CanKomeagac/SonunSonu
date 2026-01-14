@@ -1,1 +1,1 @@
-# SonunSonu
+# DevExpress diagram project
